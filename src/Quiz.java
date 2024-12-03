@@ -184,7 +184,7 @@ public class Quiz {
         q12.opcaoB = "b) Gavião Arqueiro";
         q12.opcaoC = "c) Soldado Invernal";
         q12.opcaoD = "d) Máquina de Combate";
-        q12.opcaoE = "e) Capitão América";
+        q12.opcaoE = "e) Viúva Negra";
         q12.correta = "c";
 
         q12.escrevaQuestao();
