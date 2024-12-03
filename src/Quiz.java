@@ -18,7 +18,7 @@ public class Quiz {
         q1.opcaoB = "b) Guardiões da Galáxia Vol. 2";
         q1.opcaoC = "c) Homem de Ferro";
         q1.opcaoD = "d) Homem-Formiga e a Vespa: Quantumania";
-        q1.opcaoE = "e) Capitã Marvel";
+        q1.opcaoE = "e) Thor";
         q1.correta = "c";
 
         q1.escrevaQuestao();
