@@ -165,7 +165,7 @@ public class Quiz {
 
         Questao q11 = new Questao();
         q11.pergunta = "Pergunta 11: Qual é o nome da inteligência artificial que substitui o JARVIS em 'Vingadores: Era de Ultron'?";
-        q11.opcaoA = "a) EDITH";
+        q11.opcaoA = "a) J.U.R.A.N.D.I.R";
         q11.opcaoB = "b) Ultron";
         q11.opcaoC = "c) F.R.I.D.A.Y.";
         q11.opcaoD = "d) Karen";
