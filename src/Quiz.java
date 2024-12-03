@@ -120,7 +120,7 @@ public class Quiz {
         Questao q8 = new Questao();
         q8.pergunta = "Pergunta 8: Qual é o verdadeiro nome de Pantera Negra?";
         q8.opcaoA = "a) Erik Killmonger";
-        q8.opcaoB = "b) Nakia";
+        q8.opcaoB = "b) Nakila";
         q8.opcaoC = "c) T'Challa";
         q8.opcaoD = "d) Okoye";
         q8.opcaoE = "e) Shuri";
