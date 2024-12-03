@@ -248,7 +248,6 @@ public class Quiz {
         System.out.println("Erros: " + erros);
         System.out.println("Porcentagem de acertos: " + String.format("%.2f", porcentagem) + "%");
         System.out.println("********************************************");
-
     }
 }
 
