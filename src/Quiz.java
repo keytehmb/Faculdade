@@ -211,7 +211,7 @@ public class Quiz {
         Questao q14 = new Questao();
         q14.pergunta = "Pergunta 14: Qual é o nome da organização infiltrada na S.H.I.E.L.D. em 'Capitão América: O Soldado Invernal'?";
         q14.opcaoA = "a) Hydra";
-        q14.opcaoB = "b) AIM";
+        q14.opcaoB = "b) Aim";
         q14.opcaoC = "c) Sokovia";
         q14.opcaoD = "d) SHIELD Negra";
         q14.opcaoE = "e) Os Dez Anéis";

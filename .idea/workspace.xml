@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca572195-d79c-4639-93b1-931a4486d58b" name="Changes" comment="questão 8 opção (b)" />
+    <list default="true" id="ca572195-d79c-4639-93b1-931a4486d58b" name="Changes" comment="questão 12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733267103269</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="questão 11 opção (A)">
+      <option name="closed" value="true" />
+      <created>1733267196463</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733267196463</updated>
+    </task>
+    <task id="LOCAL-00007" summary="questão 12">
+      <option name="closed" value="true" />
+      <created>1733267478929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733267478929</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,6 +125,8 @@
     <MESSAGE value="questão teste" />
     <MESSAGE value="questão 2 opção (E)" />
     <MESSAGE value="questão 8 opção (b)" />
-    <option name="LAST_COMMIT_MESSAGE" value="questão 8 opção (b)" />
+    <MESSAGE value="questão 11 opção (A)" />
+    <MESSAGE value="questão 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="questão 12" />
   </component>
 </project>
