@@ -196,7 +196,7 @@ public class Quiz {
         Questao q13 = new Questao();
         q13.pergunta = "Pergunta 13: Qual herói do MCU é conhecido como o 'Feiticeiro Supremo'?";
         q13.opcaoA = "a) Wong";
-        q13.opcaoB = "b) Thor";
+        q13.opcaoB = "b) T' Challa";
         q13.opcaoC = "c) Doutor Estranho";
         q13.opcaoD = "d) Loki";
         q13.opcaoE = "e) Wanda Maximoff";
