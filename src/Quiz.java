@@ -33,7 +33,7 @@ public class Quiz {
         q2.opcaoB = "b) Killmonger";
         q2.opcaoC = "c) Ultron";
         q2.opcaoD = "d) Loki";
-        q2.opcaoE = "e) Hela";
+        q2.opcaoE = "e) Thor";
         q2.correta = "b";
 
         q2.escrevaQuestao();
