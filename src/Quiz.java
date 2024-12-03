@@ -138,7 +138,7 @@ public class Quiz {
         q9.opcaoB = "b) Tony Stark";
         q9.opcaoC = "c) Hank Pym";
         q9.opcaoD = "d) Nick Fury";
-        q9.opcaoE = "e) Thor";
+        q9.opcaoE = "e) Tony Esterco";
         q9.correta = "b";
 
         q9.escrevaQuestao();
